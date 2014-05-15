@@ -43,11 +43,11 @@ Most important tests:
 
 Less important tests (Though they all have their own benefits):
 
-Fuzz testing:
-The users of the system do not have access to a command console, or direct control over the system, limiting the range of input that is possible. 
+	Fuzz testing:
+	The users of the system do not have access to a command console, or direct control over the system, limiting the range of input that is possible. 
 
-Compatibility testing:
-Given the specialist build of the self-service system, it is unlikely that it would need to be compatible with any older systems.
+	Compatibility testing:
+	Given the specialist build of the self-service system, it is unlikely that it would need to be compatible with any older systems.
 
-Load testing:
-There is a limit of one customer at a time on the system, and each customer, is likely to have less than 50 items, indicating that load will not be a problem when the system is in the field.
+	Load testing:
+	There is a limit of one customer at a time on the system, and each customer, is likely to have less than 50 items, indicating that load will not be a problem when the system is in the field.
